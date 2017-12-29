@@ -17,14 +17,14 @@ locales:
 
   # German translation
   # -------------------
-  de: &DEFAULT_DE
+  zh: &DEFAULT_DE
     <<: *DEFAULT_EN     # load English values as default
-    overview: "&Uuml;bersicht"
-    toc: "Inhalt"
-    written_by: "Verfasst von"
-    updated: "Zuletzt aktualisiert:"
-    share: ""
-  de_DE:
+    overview: "目录根"
+    toc: "目录"
+    written_by: "书写者"
+    updated: "跟新时间"
+    share: "共享"
+  zh_CN:
     <<: *DEFAULT_DE     # use German translation for de_DE
 
   # French translation (TODO)
