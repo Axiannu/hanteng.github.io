@@ -1,17 +1,17 @@
 # Site navigation links
 
 - title: Web
-  url: /Web/
+  url: /portfolio/
   excerpt: "个人学习总结"
   image: learning_teaching.gif
 
 - title: Tableau
-  url: /Tableau/
+  url: /infovis/
   excerpt: "个人学习总结"
   image: 300x200.gif
   
-- title: 作品库
-  url: /protfolio/
+- title: 个人笔记
+  url: /posts/
   excerpt: "血泪史"
   image: Tower_of_Babel.jpg
 
